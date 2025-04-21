@@ -1,4 +1,4 @@
- Hi, I'm Vinnu! 👋
+ Hi, I'm Vinay! 👋
 - 🔥 Cybersecurity Enthusiast
 - 🛡️ Currently learning Ethical Hacking and Network Security
 - 🎯 Building projects on TryHackMe and HackTheBox
@@ -11,5 +11,5 @@
 - Python Scripting (beginner)
 
  📫 How to reach me:
-- Email: your_email@example.com
-- LinkedIn: [your LinkedIn link]
+- Email: vinayvanaparthi5@gmail.com
+- LinkedIn: vinay kumar vanaparthi
